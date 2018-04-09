@@ -1,0 +1,54 @@
+
+                                    Welcome to Ride the Worm!
+
+This game is based on Frank Herbert's 1965 science fiction masterpiece, Dune. You'll play a fremen,
+one of the desert people who live in hidden communities called sietches on the planet Arrakis, also
+known as Dune. Your goal is to travel from one sietch to the next - but your trek across the harsh
+desert will be anything but easy!
+
+Even with your moisture-preserving stillsuit, you can only survive so long without dying of thirst.
+However, you'll never make it to your destination in time if you walk the whole way. If you want to
+make it there alive, you'll have to ride a worm!
+
+The deserts of Dune are filled with massive sandworms, which live and travel underground. Fremen 
+have mastered the art of wormriding, and by riding a worm, you can travel far faster and reach
+your destination before you die of thirst.
+
+To make it across the dessert, you'll need a few tools. Your toolkit includes:
+    -Thumpers: A thumper will cause any worms within the 5-space square surrounding you to emerge.
+               Be carefule, though! If you thump directly on top of a submerged worm, it will
+               swallow you whole as it emerges!
+    -Spice: The spice melange is the most sought-after substance in the empire, and for good reason!
+            By consuming spice, you activate your dormant prescience - the ability to see the unseen.
+            If you consume spice during a turn, you will be able to see all worms on the board, both
+            submerged and surfaced.
+    -Maker hooks: Maker hooks are the tools fremen use to steer worms. You'll have to have at least 
+                  one to successfully mount and ride a worm!
+
+    -You'll start each game with 10 maker hooks and 10 thumpers. Those, along with your thirst
+     counter, will be replenished when you arrive at the next sietch. Spice you'll have to find!
+
+Here are a few other things to keep in mind as you make your way across the dessert:
+    -Every step you take across sand or onto a worm will cause your thirst counter to decrease by 1.
+    -Every time you walk across sand (or a submerged worm, which looks like sand), there is a chance
+     that you'll find spice, which will be placed into your inventory.
+    -The map is littered with Creosote bushes - plants that retain moisture. If you move onto a bush,
+     your thirst counter will increase by 1. They can be real life-savers!
+    -You may only ride a worm once your thumper has caused it to surface! Once you mount (move onto) 
+     a worm segment, you'll be able to choose to move up to 10 TOTAL  spaces in up to 2 different 
+     directions.
+    -Surfaced worms STAY surfaced until the end of a turn.
+    -Once activated, prescience remains activated until the end of a turn.
+
+Here are the things that will occur during every move of every turn - and every turn includes 5 moves.
+    -You'll have the chance to use spice, if it's in your inventory.
+    -You'll have the chance to use a thumper.
+    -You'll be able to move one space. If you move onto a surfaced worm segment, you'll get to ride!
+
+Remember, your goal is to get from one sietch to the other! There is a safe perimeter around each
+sietch, which worms can't enter, but you must arrive at the sietch - marked by an S - to win.
+
+Overall, your goal is to complete as many successful journies as possible without dying, either of
+thirst or being swallowed by a sandworm.
+
+Safe travels!

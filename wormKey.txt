@@ -1,0 +1,12 @@
+
+                                Key
+
+X  Your current space
++  Sand
+S  Sietch
+B  Creosote Bush
+H  Surfaced worm (head)
+W  Surfaced worm (body)
+U  Submerged worm (head)
+O  Submerged worm (body)
+
